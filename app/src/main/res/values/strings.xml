@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Dorawmon3</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_left">ActivityLeft</string>
+    <string name="title_activity_activity_right">ActivityRight</string>
 </resources>
